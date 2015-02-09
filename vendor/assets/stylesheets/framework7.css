@@ -1,15 +1,15 @@
 /**
  * Framework7 1.0.0
  * Full Featured Mobile HTML Framework For Building iOS Apps
- * 
+ *
  * http://www.idangero.us/framework7
- * 
+ *
  * Copyright 2015, Vladimir Kharlampidi
  * The iDangero.us
  * http://www.idangero.us/
- * 
+ *
  * Licensed under MIT
- * 
+ *
  * Released on: February 6, 2015
  */
 html,
@@ -1488,57 +1488,57 @@ i.icon.icon-camera {
 i.icon.icon-f7 {
   width: 29px;
   height: 29px;
-  background-image: url("../img/i-f7.png");
+  background-image: url("../assets/i-f7.png");
 }
 i.icon.icon-form-name {
   width: 29px;
   height: 29px;
-  background-image: url("../img/i-form-name.png");
+  background-image: url("../assets/i-form-name.png");
 }
 i.icon.icon-form-password {
   width: 29px;
   height: 29px;
-  background-image: url("../img/i-form-password.png");
+  background-image: url("../assets/i-form-password.png");
 }
 i.icon.icon-form-email {
   width: 29px;
   height: 29px;
-  background-image: url("../img/i-form-email.png");
+  background-image: url("../assets/i-form-email.png");
 }
 i.icon.icon-form-calendar {
   width: 29px;
   height: 29px;
-  background-image: url("../img/i-form-calendar.png");
+  background-image: url("../assets/i-form-calendar.png");
 }
 i.icon.icon-form-tel {
   width: 29px;
   height: 29px;
-  background-image: url("../img/i-form-tel.png");
+  background-image: url("../assets/i-form-tel.png");
 }
 i.icon.icon-form-gender {
   width: 29px;
   height: 29px;
-  background-image: url("../img/i-form-gender.png");
+  background-image: url("../assets/i-form-gender.png");
 }
 i.icon.icon-form-toggle {
   width: 29px;
   height: 29px;
-  background-image: url("../img/i-form-toggle.png");
+  background-image: url("../assets/i-form-toggle.png");
 }
 i.icon.icon-form-comment {
   width: 29px;
   height: 29px;
-  background-image: url("../img/i-form-comment.png");
+  background-image: url("../assets/i-form-comment.png");
 }
 i.icon.icon-form-settings {
   width: 29px;
   height: 29px;
-  background-image: url("../img/i-form-settings.png");
+  background-image: url("../assets/i-form-settings.png");
 }
 i.icon.icon-form-url {
   width: 29px;
   height: 29px;
-  background-image: url("../img/i-form-url.png");
+  background-image: url("../assets/i-form-url.png");
 }
 i.icon.icon-next,
 i.icon.icon-prev {

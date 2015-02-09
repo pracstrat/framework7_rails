@@ -1,6 +1,6 @@
 # Framework7Rails
 
-TODO: Write a gem description
+Brings the excellent Framework7 into the Rails 3.1.x - 4.x Asset Pipeline.
 
 ## Installation
 
