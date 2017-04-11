@@ -20,7 +20,21 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+## Usage
+
+In your application.js file, add the line:
+
+    //= require framework7
+
+In your application.css file, add the line:
+
+    *= require framework7.ios
+    *= require framework7.ios.colors
+or
+    *= require framework7.material
+    *= require framework7.material.colors
+
+You can require framework7-icons to use the icons
 
 ## Contributing
 
