@@ -29,6 +29,7 @@ In your application.css file, add the line:
     *= require framework7.ios
     *= require framework7.ios.colors
 or
+
     *= require framework7.material
     *= require framework7.material.colors
 
