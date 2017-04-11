@@ -20,8 +20,6 @@ Or install it yourself as:
 
 ## Usage
 
-## Usage
-
 In your application.js file, add the line:
 
     //= require framework7
