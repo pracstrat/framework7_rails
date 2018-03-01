@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Framework7 for Rails 3.1+ Asset Pipeline.}
   spec.description   = %q{Adds support for Framework7 to the Asset Pipeline.}
   spec.homepage      = "https://github.com/pracstrat/framework7_rails"
-  spec.license       = "MIT"
+  spec.licenses      = ["MIT"]
 
   spec.files         = `git ls-files -z`.split("\x0")
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
